@@ -29,7 +29,6 @@
 
 - 🎓 Software Engineering @ **Padre Anchieta University**, Brazil
 - 🚀 Building **IGS** — AI-powered WhatsApp SaaS for educational institutions
-- ☁️ Studying **Cloud Architecture** on Azure
 - ⚡ *"Make possible what is impossible."*
 
 <br clear="right"/>
