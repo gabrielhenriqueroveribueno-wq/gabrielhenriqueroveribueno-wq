@@ -61,14 +61,6 @@
 
 ---
 
-## 📚 Currently Learning / Estudando agora
-
-- ☁️ Cloud Architecture & Azure (Microsoft Azure — Unidade 3)
-- 🌐 Technical English for Software Engineering (ESP)
-- 🤖 LLM Orchestration & AI Agents
-
----
-
 ## 📬 Connect with me / Contato
 
 <div align="center">
