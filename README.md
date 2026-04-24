@@ -1,42 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gabriel%20Henrique&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20AI%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:16213e&height=250&section=header&text=Gabriel%20Bueno&fontSize=72&fontColor=00d4ff&fontAlignY=45&desc=Building%20what%20shouldn't%20exist%20yet&descSize=18&descAlignY=65&descColor=ffffff&animation=fadeIn&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
 </div>
 
----
-
 <div align="center">
 
-**`< gabrielhenriqueroveribueno-wq />`**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+AI+Developer;Building+IGS+%E2%80%94+SaaS+%2B+WhatsApp+%2B+AI;Make+possible+what+is+impossible." alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-> 🇧🇷 Estudante de Análise e Desenvolvimento de Sistemas no **Centro Universitário Padre Anchieta**, Jundiaí — SP.
-> Apaixonado por arquitetura de software, IA aplicada e construção de produtos reais.
->
-> 🇺🇸 Software Engineering student at **Centro Universitário Padre Anchieta**, Jundiaí — SP, Brazil.
-> Passionate about software architecture, applied AI, and building real products.
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-bueno1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.henrique.roveri.bueno@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielhenriqueroveribueno-wq)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielhenriqueroveribueno-wq&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 🚀 Featured Project — IGS (Intelligent General Service)
+<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> 🇧🇷 Plataforma SaaS multi-tenant para atendimento ao cliente via WhatsApp com IA, voltada para instituições de ensino.
->
-> 🇺🇸 Multi-tenant SaaS platform for AI-powered WhatsApp customer service, targeting educational institutions.
+### 🇧🇷 Sobre mim
 
-| | |
-|---|---|
-| **Backend** | Python 3.12, FastAPI, SQLAlchemy Async, Celery |
-| **Database** | PostgreSQL 16, Redis 7 |
-| **Frontend** | React 18, TypeScript, TailwindCSS |
-| **AI Providers** | Groq, Gemini, Anthropic (Claude) |
-| **Infra** | Docker, Prometheus, Grafana, Loki |
+- 🎓 ADS — **Centro Universitário Padre Anchieta**, Jundiaí/SP
+- 🚀 Fundador do **IGS** — plataforma SaaS com IA para WhatsApp
+- 🤖 Trabalhando com **Groq, Gemini e Claude (Anthropic)**
+- ☁️ Estudando **Cloud Architecture** no Azure
+- ⚡ Motto: *"Make possible what is impossible."*
 
-> 🔒 Private repository — currently in active development.
+### 🇺🇸 About me
+
+- 🎓 Software Engineering @ **Padre Anchieta University**, Brazil
+- 🚀 Building **IGS** — AI-powered WhatsApp SaaS platform
+- 🤖 Working with **Groq, Gemini & Claude (Anthropic)**
+- ☁️ Studying **Cloud Architecture** on Azure
+- ⚡ Motto: *"Make possible what is impossible."*
+
+<br clear="right"/>
+
+---
+
+## 🔥 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/gabrielhenriqueroveribueno-wq/intelligent-general-service">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielhenriqueroveribueno-wq&repo=intelligent-general-service&theme=tokyonight&hide_border=true&border_radius=12&title_color=00d4ff&icon_color=00d4ff" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Layer | Stack |
+|:---:|:---|
+| 🐍 **Backend** | Python 3.12 · FastAPI · SQLAlchemy Async · Celery |
+| 🗄️ **Database** | PostgreSQL 16 · Redis 7 |
+| ⚛️ **Frontend** | React 18 · TypeScript · TailwindCSS |
+| 🤖 **AI** | Groq · Gemini · Anthropic Claude |
+| 🐳 **Infra** | Docker · Prometheus · Grafana · Loki |
+
+</div>
 
 ---
 
@@ -44,30 +75,42 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,ts,tailwind,docker,postgres,redis,linux,git,github,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,tailwind,docker,postgres,redis&perline=8&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,azure,grafana&perline=8&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielhenriqueroveribueno-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhenriqueroveribueno-wq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielhenriqueroveribueno-wq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhenriqueroveribueno-wq&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=00d4ff&text_color=ffffff&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=gabrielhenriqueroveribueno-wq&theme=tokyonight&hide_border=true&border_radius=12&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&background=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielhenriqueroveribueno-wq&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&radius=8" />
 
 </div>
 
 ---
 
-## 📬 Connect with me / Contato
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielhenriqueroveribueno)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenriqueroveribueno@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielhenriqueroveribueno-wq)
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielhenriqueroveribueno-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
@@ -75,6 +118,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer&fontColor=00d4ff&fontSize=14&text=Thanks%20for%20visiting!%20⚡&animation=fadeIn" width="100%"/>
 
 </div>
