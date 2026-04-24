@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="38%" src="https://tenor.com/pt-BR/view/aizen-bleach-aizen-smile-aizensmile-aizen-sosuke-gif-10594676802186836413"/>
 
 ### About me
 
