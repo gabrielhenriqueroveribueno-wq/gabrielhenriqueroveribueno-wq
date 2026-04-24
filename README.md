@@ -25,21 +25,12 @@
 
 <img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🇧🇷 Sobre mim
-
-- 🎓 ADS — **Centro Universitário Padre Anchieta**, Jundiaí/SP
-- 🚀 Fundador do **IGS** — plataforma SaaS com IA para WhatsApp
-- 🤖 Trabalhando com **Groq, Gemini e Claude (Anthropic)**
-- ☁️ Estudando **Cloud Architecture** no Azure
-- ⚡ Motto: *"Make possible what is impossible."*
-
-### 🇺🇸 About me
+### About me
 
 - 🎓 Software Engineering @ **Padre Anchieta University**, Brazil
-- 🚀 Building **IGS** — AI-powered WhatsApp SaaS platform
-- 🤖 Working with **Groq, Gemini & Claude (Anthropic)**
+- 🚀 Building **IGS** — AI-powered WhatsApp SaaS for educational institutions
 - ☁️ Studying **Cloud Architecture** on Azure
-- ⚡ Motto: *"Make possible what is impossible."*
+- ⚡ *"Make possible what is impossible."*
 
 <br clear="right"/>
 
