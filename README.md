@@ -28,7 +28,11 @@
 ### About me
 
 - 🎓 Software Engineering @ **Padre Anchieta University**, Brazil
+- 💼 IT Intern @ **UniAnchieta** — tech support & infrastructure
 - 🚀 Building **IGS** — AI-powered WhatsApp SaaS for educational institutions
+- 🏅 Silver Medal — **Brazilian Statistics Olympiad** (OBE)
+- 🏆 Semifinalist — **Empreenda 2024**
+- 🤖 Working with **Generative AI** — Claude, ChatGPT, Gemini
 - ⚡ *"Make possible what is impossible."*
 
 <br clear="right"/>
