@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:16213e&height=250&section=header&text=Gabriel%20Bueno&fontSize=72&fontColor=00d4ff&fontAlignY=45&desc=Building%20what%20shouldn't%20exist%20yet&descSize=18&descAlignY=65&descColor=ffffff&animation=fadeIn&stroke=00d4ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:16213e&height=250&section=header&text=Gabriel%20Bueno&fontSize=72&fontColor=00d4ff&fontAlignY=45&desc=I%20just%20keep%20moving%20forward&descSize=18&descAlignY=65&descColor=ffffff&animation=fadeIn&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+AI+Developer;Building+IGS+%E2%80%94+SaaS+%2B+WhatsApp+%2B+AI;I+just+keep+moving+forward" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+AI+Developer;Building+IGS+%E2%80%94+SaaS+%2B+WhatsApp+%2B+AI;Make+possible+what+is+impossible." alt="Typing SVG" />
 
 </div>
 
